@@ -6,5 +6,6 @@ My Resume
   <body>
     <h1>Ben's Resume</h1>
     <p> Contact Information</p>
+    <h2>Work Experience</h2>
   </body>
   </html>
