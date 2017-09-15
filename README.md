@@ -1,6 +1,3 @@
-# Resume
-My Resume
-
 <!DOCTYPE html>
 <html>
   <body>
