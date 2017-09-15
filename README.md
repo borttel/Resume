@@ -8,5 +8,6 @@ My Resume
     <p> Home Address, MN 55430 &#9679 763-218-1599 &#9679 email@gmail.com</p> 
     <h2>Skills</h2>
     <p>- Office Microsoft Suite - Extensive working knowledge and use of Outlook, Word, Publisher & Excel features to organize data, design, edit, save, and send documents.</p>
+    <h2>Experience</h2>
   </body>
   </html>
