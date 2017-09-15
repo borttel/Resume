@@ -1,5 +1,13 @@
 <!DOCTYPE html>
 <html>
+  <style>
+    #rcorners1 {
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    }
   <body>
     <h1>Ben Orttel</h1>
     <p> Home Address, MN 55430 &#9679 763-218-1599 &#9679 email@gmail.com</p> 
@@ -13,4 +21,5 @@
     <h2>Employment</h2>
     <h2>Education</h2>
   </body>
+  </style>
   </html>
