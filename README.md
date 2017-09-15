@@ -9,7 +9,7 @@
       <li><b>Digital File Organization</b> - Reformatting digital documents to a universally accessible format(PDF), using scanning equipment to convert paper documents into digital format, creating an organized digital filing system to store documents and files for easy access and workflow efficiency.</ul>
     </ul>
     <h2>Experience</h2>
-    <ul>Employment Experience - Twelve years of professional experience with Loffler Companies, a fast growing, Pro-Tech certified private company.</ul>
+  <ul><b>Employment Experience</b> - Twelve years of professional experience with Loffler Companies, a fast growing, Pro-Tech certified private company.</ul>
     <h2>Employment</h2>
     <h2>Education</h2>
   </body>
