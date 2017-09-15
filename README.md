@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html>
-  <body>
+  <style>
+    body {
+    background-color: lightblue;
+    }
+  </style>
+    <body>
     <h1>Ben Orttel</h1>
     <p> Home Address, MN 55430 &#9679 763-218-1599 &#9679 email@gmail.com</p> 
     <h2>Skills</h2>
